@@ -6,9 +6,20 @@
     <description>Recent content in Blog on Nassim Kaddour</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
+    <lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://nssmmn.github.io/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Je lance mon blog</title>
+      <link>https://nssmmn.github.io/fr/blog/2019-08-31-je-lance-mon-blog/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nssmmn.github.io/fr/blog/2019-08-31-je-lance-mon-blog/</guid>
+      <description>Voilà, que je me décide à lancer un blog qui traite des statistiques et des données ; seul hic, quelle plateforme choisir ? Étant un fervent partisan du langage R et que je ne veux pas quitter mon IDE préféré, à savoir RStudio, je me tourne vers {blogdown}.
+{blogdown} est un package R, qui va vous permettre, grâce à Hugo, de mettre en place un site web statique (pas besoin de vous casser la tête avec les injections SQL et les XSS), même si {blogdown} vous permet d’utiliser d’autres générateurs tel que Jekyll ou Hexo.</description>
+    </item>
     
   </channel>
 </rss>
