@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://nssmmn.github.io/en/about/</loc>
+    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nssmmn.github.io/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://nssmmn.github.io/ar/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nssmmn.github.io/en/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nssmmn.github.io/en/</loc>
+    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nssmmn.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://nssmmn.github.io/ar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nssmmn.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nssmmn.github.io/en/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nssmmn.github.io/fr/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://nssmmn.github.io/ar/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nssmmn.github.io/en/blog/"
+                />
+  </url>
+  
+</urlset>

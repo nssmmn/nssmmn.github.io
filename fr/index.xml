@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nassim Kaddour</title>
+    <link>https://nssmmn.github.io/fr/</link>
+    <description>Recent content on Nassim Kaddour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nssmmn.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>À propos</title>
+      <link>https://nssmmn.github.io/fr/about/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nssmmn.github.io/fr/about/</guid>
+      <description>Si vous êtes là, c&amp;rsquo;est que, comme moi, vous vous intéressez à la donnée dans tous ses états. Je m&amp;rsquo;appelle Nassim, et je suis statisticien/actuaire. À travers ce blog, je partagerai avec vos mes différentes expériences dans le domaine de la Statistique et de la Donnée.
+Si j&amp;rsquo;ai un conseil à vous donner, ça serait d&amp;rsquo;installer R (sans oublier RStudio biensûr !)</description>
+    </item>
+    
+  </channel>
+</rss>

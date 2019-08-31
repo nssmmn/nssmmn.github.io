@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nassim Kaddour</title>
+    <link>https://nssmmn.github.io/ar/</link>
+    <description>Recent content on Nassim Kaddour</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar-dz</language>
+    <lastBuildDate>Sat, 31 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nssmmn.github.io/ar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>عن</title>
+      <link>https://nssmmn.github.io/ar/about/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nssmmn.github.io/ar/about/</guid>
+      <description>إذا إنتهئ بكم المطاف على هذا الموقع، فإنكم حتمًا مهتمون بالبيانات بجميع أشكالها. أدعى نسيم ، وأنا إحصائي / إكتواري ، و من خلال هذه المدونة ، سوف أشارككم تجاربي المختلفة في مجال الإحصاء والبيانات.
+إذا كان لديّ أي نصيحة لكم ، فستكون : قوموا بتثبيت R (بالإضافة إلى RStudio بالطبع!)</description>
+    </item>
+    
+  </channel>
+</rss>
